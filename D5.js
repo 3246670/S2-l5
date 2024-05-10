@@ -240,3 +240,5 @@ for (const char of charactersArray) {
 }
 
 console.log(italianPositions); // Output: [7, 12, 19, 21, 4]
+
+
